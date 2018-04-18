@@ -1,0 +1,22 @@
+.am-topbar{
+  background: #443535 !important;
+  padding:0 57px;
+  margin-bottom:15px;
+}
+.am-form-inline .am-form-field{
+  width:240px;
+  border-radius:25px;
+  height:25px;
+  border:none;
+  background: #5d5858;
+}
+.am-topbar-brand {
+  line-height: 42px;
+}
+.am-topbar-form {
+  margin-top: 13px;
+}
+.am-topbar-nav {
+  float: left;
+  margin-top: 0;
+}

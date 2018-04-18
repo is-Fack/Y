@@ -1,0 +1,77 @@
+.panel .inner {
+  padding: 10px;
+  border-radius: 0 0 3px 3px;
+  background-color: #fff;
+  font-size: 13px;
+}
+.panel .inner{
+  color:black ;
+}
+.panel .inner, .panel .inner li {
+  line-height: 2em;
+  text-overflow: ellipsis;
+}
+li a{
+  color:black ;
+}
+.panel{
+  margin-bottom: 13px;
+}
+#sidebar {
+  width: 100%;
+  font-size: 14px;
+  float: right;
+  margin-bottom: 20px;
+}
+p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+body, input, p, textarea {
+  font-size: 14px;
+  word-break: break-word;
+}
+
+#body-you{
+  padding-left:0;
+  padding-right: 0;
+}
+.inner  img{
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  border: 0;
+}
+  .topic_title {
+  max-width: 98%;
+  -o-text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-block;
+  vertical-align: middle;
+    color:black;
+    font-size: 14px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  line-height: 30px;
+}
+  ul{
+    padding-left:0 !important;
+  }
+#sidebar .header {
+  color: #51585c;
+  border-radius: 3px 3px 0 0;
+  padding: 10px;
+  background-color: #f6f6f6;
+}
+.friendship-community img{
+  width:50%;
+}
+ol{
+  padding-left:0 !important;
+}
+.cnode-app-download {
+  text-align: center;
+}
